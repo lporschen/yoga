@@ -62,7 +62,7 @@
     <svg:text
       sodipodi:linespacing="125%">
       <svg:tspan sodipodi:role="line" y="375" x="930">Skin:</svg:tspan>
-      <svg:tspan sodipodi:role="line" y="425" x="930"> - Profuse sweating</svg:tspan>
+      <svg:tspan sodipodi:role="line" y="425" x="930"> - Sweating</svg:tspan>
     </svg:text>
   </svg:switch>
   <path sodipodi:nodetypes="ccc" d="M 915,365 L 840,365 L 775,435"
