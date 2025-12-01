@@ -18,7 +18,7 @@
   <!-- Systemic -->
   <svg:switch>
     <svg:text
-      id="text3408" sodipodi:linespacing="125%" y="201.18239" x="98.455933" xml:space="preserve"><svg:tspan sodipodi:role="line" id="tspan3416" y="201.18239" x="98.455933">Systemic:</svg:tspan><svg:tspan sodipodi:role="line" id="tspan2256" y="251.06216" x="98.455933"> - Increased temperature</svg:tspan></svg:text>
+      id="text3408" sodipodi:linespacing="125%" y="201.18239" x="98.455933" xml:space="preserve"><svg:tspan sodipodi:role="line" id="tspan3416" y="201.18239" x="98.455933">Systemic:</svg:tspan><svg:tspan sodipodi:role="line" id="tspan2256" y="251.06216" x="98.455933"> - Increased temperature</svg:tspan><svg:tspan id="tspan2456" sodipodi:role="line" y="301.06216" x="98.455933"> - Increased wellbeing</svg:tspan></svg:text>
   </svg:switch>
 
   <!-- Blood -->
@@ -40,7 +40,7 @@
   <!-- Muscles -->
   <svg:switch>
     <svg:text
-      id="text4189" sodipodi:linespacing="125%" y="776.86768" x="8" xml:space="preserve"><svg:tspan sodipodi:role="line" id="tspan4191" y="776.86768" x="8">Muscles:</svg:tspan><svg:tspan sodipodi:role="line" id="tspan2265" y="826.74744" x="8"> - Sensitivity </svg:tspan><svg:tspan sodipodi:role="line" id="tspan2267" y="876.74744" x="8"> - Strength</svg:tspan></svg:text>
+      id="text4189" sodipodi:linespacing="125%" y="776.86768" x="8" xml:space="preserve"><svg:tspan sodipodi:role="line" id="tspan4191" y="776.86768" x="8">Muscles:</svg:tspan><svg:tspan sodipodi:role="line" id="tspan2265" y="826.74744" x="8"> - Sensitivity </svg:tspan><svg:tspan sodipodi:role="line" id="tspan2267" y="876.74744" x="8"> - Strength</svg:tspan><svg:tspan id="tspan2471" sodipodi:role="line" y="926.74744" x="8"> - Flexibility</svg:tspan></svg:text>
   </svg:switch>
   <path sodipodi:nodetypes="cc"
     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
@@ -52,7 +52,7 @@
   <!-- Heart -->
   <svg:switch>
     <svg:text
-      id="text5222" sodipodi:linespacing="125%" y="701.68018" x="852.30756" xml:space="preserve"><svg:tspan sodipodi:role="line" id="tspan5224" y="701.68018" x="852.30756">Heart:</svg:tspan><svg:tspan sodipodi:role="line" id="tspan5226" y="751.55994" x="852.30756"> - (short term) Increased heart rate </svg:tspan><svg:tspan sodipodi:role="line" id="tspan6197" y="801.55994" x="852.30756"> - (long term) Decreased heart rate</svg:tspan></svg:text>
+      id="text5222" sodipodi:linespacing="125%" y="701.68018" x="852.30756" xml:space="preserve"><svg:tspan sodipodi:role="line" id="tspan5224" y="701.68018" x="852.30756">Heart:</svg:tspan><svg:tspan sodipodi:role="line" id="tspan5226" y="751.55994" x="852.30756"> - (short term) Increased heart rate</svg:tspan><svg:tspan sodipodi:role="line" id="tspan6197" y="801.55994" x="852.30756"> - (long term) Decreased heart rate</svg:tspan></svg:text>
   </svg:switch>
   <path id="path3259" d="M 836,688 L 708,688 L 563.79681,771.25575"
     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
