@@ -4,12 +4,12 @@
   height="925" width="1295">
 
   <!-- Physical effects of Yoga -->
-  <svg:text y="65" x="200">Physical effects of Yoga</svg:text>
+  <svg:text font-size="200%" y="65" x="200">Physical effects of Yoga</svg:text>
 
   <!-- Systemic -->
-  <svg:text y="65" x="930">Systemic:</svg:text>
-  <svg:text y="115" x="930"> - Increased temperature</svg:text>
-  <svg:text y="165" x="930"> - Increased wellbeing</svg:text>
+  <svg:text font-size="200%" y="65" x="930">Systemic:</svg:text>
+  <svg:text font-size="200%" y="115" x="930"> - Increased temperature</svg:text>
+  <svg:text font-size="200%" y="165" x="930"> - Increased wellbeing</svg:text>
 
   <!-- Subject -->
   <image width="975"
@@ -19,8 +19,8 @@
   <!-- Skin -->
   <path d="M 915,365 L 840,365 L 775,435"
     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <svg:text y="375" x="930">Skin:</svg:text>
-  <svg:text y="425" x="930"> - Sweating</svg:text>
+  <svg:text font-size="200%" y="375" x="930">Skin:</svg:text>
+  <svg:text font-size="200%" y="425" x="930"> - Sweating</svg:text>
 
   <!-- Blood & Heart -->
   <image
@@ -30,18 +30,18 @@
     x="555" height="310" />
 
   <!-- Blood -->
-  <path d="M 265,390 L 420,390 L 645,505"
+  <path d="M 350,390 L 420,390 L 645,505"
     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <svg:text y="400" x="130">Blood:</svg:text>
-  <svg:text y="450" x="130"> - (short term) Higher blood pressure </svg:text>
-  <svg:text y="500" x="130"> - (long term) Lower blood pressure</svg:text>
+  <svg:text font-size="200%" y="400" x="130">Blood pressure:</svg:text>
+  <svg:text font-size="200%" y="450" x="130"> - (during) Higher</svg:text>
+  <svg:text font-size="200%" y="500" x="130"> - (after) Lower</svg:text>
 
   <!-- Heart -->
   <path d="M 935,555 L 810,555 L 665,635"
     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <svg:text y="565" x="950">Heart:</svg:text>
-  <svg:text y="615" x="950"> - (short term) Increased heart rate</svg:text>
-  <svg:text y="665" x="950"> - (long term) Decreased heart rate</svg:text>
+  <svg:text font-size="200%" y="565" x="950">Heart rate:</svg:text>
+  <svg:text font-size="200%" y="615" x="950"> - (during) Increased</svg:text>
+  <svg:text font-size="200%" y="665" x="950"> - (after) Decreased</svg:text>
 
   <!-- Muscles -->
   <image style="opacity:0.5" width="470" transform="scale(-1,1)" y="335"
@@ -50,10 +50,10 @@
   <path
     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
     d="M 305,635 L 460,635" />
-  <svg:text y="640" x="110">Muscles:</svg:text>
-  <svg:text y="690" x="110"> - Sensitivity </svg:text>
-  <svg:text y="740" x="110"> - Strength</svg:text>
-  <svg:text y="790" x="110"> - Flexibility</svg:text>
+  <svg:text font-size="200%" y="640" x="110">Muscles:</svg:text>
+  <svg:text font-size="200%" y="690" x="110"> - Sensitivity </svg:text>
+  <svg:text font-size="200%" y="740" x="110"> - Strength</svg:text>
+  <svg:text font-size="200%" y="790" x="110"> - Flexibility</svg:text>
 
   <!-- Gastric -->
   <image
@@ -64,6 +64,6 @@
   <path
     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
     d="M 715,785 L 980,785" />
-  <svg:text y="790" x="995">Gastric:</svg:text>
-  <svg:text y="840" x="995"> - Increased appetite </svg:text>
+  <svg:text font-size="200%" y="790" x="995">Gastric:</svg:text>
+  <svg:text font-size="200%" y="840" x="995"> - Increased appetite </svg:text>
 </svg>
